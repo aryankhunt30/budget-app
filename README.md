@@ -35,4 +35,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ###snapshot 
 
-![Screenshot (34)](https://user-images.githubusercontent.com/86661610/235335681-e890ca55-c8a2-44c1-a10a-605ed300a3e5.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/86661610/235335702-b89c945b-3b1a-47d4-954d-edd977b05cd5.png)
+
